@@ -1,0 +1,35 @@
+.jumbotron {
+    border-bottom: 2px solid black;
+}
+.showMe-button,
+.winner-button {
+    text-align: center;
+}
+
+
+ul {
+    margin:50px 50px 50px 200px;
+}
+
+
+
+.hideMe {
+    display: none;
+}
+
+
+
+
+
+
+
+.victor {
+    text-align: center;
+    margin-top: 50px;
+    text-transform: uppercase;
+    text-decoration: italic;
+}
+
+button {
+    margin-top: 50px;
+}
